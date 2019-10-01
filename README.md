@@ -10,7 +10,7 @@ npm install -g saytup-starter-launch
 
 ## votre première fois ?
 
-Une fois installé globalement sur votre ordinateur (étape précédente), **Saytup Starter Launch** permet de créer un nouveau projet basé sur [Saytup Starter Launch](https://github.com/agear-digital/saytup-starter).
+Une fois installé globalement sur votre ordinateur (étape précédente), **Saytup Starter Launch** permet de créer un nouveau projet basé sur [Saytup Starter](https://github.com/agear-digital/saytup-starter).
 
 Il lui suffit de connaître : 
 - le nom de votre projet (il va créer le dossier)
