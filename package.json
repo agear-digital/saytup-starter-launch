@@ -1,6 +1,6 @@
 {
   "name": "saytup-starter-launch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Créateur de nouveau projet Saytup",
   "main": "bin.js",
   "dependencies": {
@@ -9,7 +9,7 @@
     "read": "^1.0.5",
     "request": "^2.40.0",
     "streaming-format": "^1.0.0",
-    "tar-fs": "^0.5.0"
+    "tar-fs": ">=0.5.0"
   },
   "devDependencies": {},
   "bin": {
